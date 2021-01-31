@@ -7,7 +7,7 @@ You do not need to turn in anything for this lab.
 Don't forget that your TA will be taking attendance! Your attendance will contribute to your overall Class Participation grade. Students who routinely skip their discussion section will get a low grade, even if they come to class regularly. Class participation is worth 5% of your final grade, so getting a low score could be the difference between a an A and an A-.
 
 ## Reading
-(You can read the first few sections of this as you're learning.)[https://realpython.com/python-idle/] You can stop at "Improving your Workflow".
+[You can read the first few sections of this as you're learning.](https://realpython.com/python-idle/) You can stop at "Improving your Workflow".
 
 ## Code
 In this directory, you'll find a few scripts that the TAs will show you how to run.
@@ -16,5 +16,26 @@ In this directory, you'll find a few scripts that the TAs will show you how to r
 1. Create a folder on your Desktop or in your Documents or anywhere that's easy to access called ``CS1``. This will be where you keep all your assignments for this class.
 
 2. On this page, you'll see a green ``Code`` button. Click on that button and select ``Download ZIP``. Here's a picture to help:
+
+
+3. On your computer, move the ``lab1-master`` folder you just downloaded to your ``CS1`` folder.
+
+4a. There are two ways of opening a Python (``.py``) file. Let's try one way first to see if it works.
+
+  * Open the lab1-master folder on your computer, then you'll see a file called `myfirstpython.py`. (Your operating system might just show it as as `myfirstpython`. That's fine -- it's the you want.) 
+  * **Right-click** on the `myfirstpython.py` file. On a Mac, you can right-click by tapping the icon with two fingers or by holding down the ``control`` key and then tapping the icon.
+  * Select `Open with...` and then select IDLE from the submenu.
+  * If IDLE does not appear or you can't figure out how to right click, try option 4b.
+
+4b. If 4a didn't work, try this. 
+  * find IDLE, the Python IDE application you downloaded and installed in the first problem set. 
+  * Launch IDLE! (On a Mac it might be called ``IDLE.app``, and on a Windows machine it might be called ``IDLE.exe`` or ``IDLE.bat``.)
+  * From the `File` menu in IDLE, select `Open`. Then navigate to the `lab1-master1` folder, and select `myfirstpython.py` (which your OS might show just as `myfirstpython`).
+  
+ 5.
+
+5. Once you have launched IDLE, go up to file 
+
+
 
 
