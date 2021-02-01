@@ -44,6 +44,8 @@ Hello, World!
 ## Getting more advanced
 Now open the `mysecondprogram.py` just as you opened `myirstprogram.py`, above. You ran run it just as you ran the other program. This is a little more fancy! You can learn more about what the program is doing and what is happening by looking in the comments. The TA will discuss it more with you.
 
+Why "Hello, World!"? [Read more about it here!](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
+
 ## Getting even more advanced!
 Now open the `mythirdprogram.py` just as you opened `myirstprogram.py`, above. You ran run it just as you ran the other program. This is even more fancy! You can learn more about what the program is doing and what is happening by looking in the comments. The TA will discuss it more with you.
 
