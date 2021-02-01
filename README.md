@@ -18,6 +18,8 @@ In this repository (a.k.a. folder), you'll find a few scripts that the TAs will 
 
 2. On this page, you'll see a green `Code` button. Click on that button and select ``ownload ZIP`. Here's a picture to help:
 
+<img src="picture.png" width="300">
+
 
 3. On your computer, move the ``lab1-main`` folder you just downloaded to your `CS1` folder.
 
