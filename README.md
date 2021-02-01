@@ -19,11 +19,11 @@ In this directory, you'll find a few scripts that the TAs will show you how to r
 2. On this page, you'll see a green ``Code`` button. Click on that button and select ``Download ZIP``. Here's a picture to help:
 
 
-3. On your computer, move the ``lab1-master`` folder you just downloaded to your ``CS1`` folder.
+3. On your computer, move the ``lab1-main`` folder you just downloaded to your ``CS1`` folder.
 
 4a. There are two ways of opening a Python (``.py``) file. Let's try one way first to see if it works.
 
-  * Open the lab1-master folder on your computer, then you'll see a file called `myfirstprogram.py`. (Your operating system might just show it as as `myfirstprogram`. That's fine -- it's the you want.) 
+  * Open the `lab1-main` folder on your computer, then you'll see a file called `myfirstprogram.py`. (Your operating system might just show it as as `myfirstprogram`. That's fine -- it's the you want.) 
   * **Right-click** on the `myfirstprogram.py` file. On a Mac, you can right-click by tapping the icon with two fingers or by holding down the ``control`` key and then tapping the icon.
   * Select `Open with...` and then select IDLE from the submenu.
   * If IDLE does not appear or you can't figure out how to right click, try option 4b.
@@ -31,7 +31,7 @@ In this directory, you'll find a few scripts that the TAs will show you how to r
 4b. If 4a didn't work, try this. 
   * find IDLE, the Python IDE application you downloaded and installed in the first problem set. 
   * Launch IDLE! (On a Mac it might be called ``IDLE.app``, and on a Windows machine it might be called ``IDLE.exe`` or ``IDLE.bat``.)
-  * From the `File` menu in IDLE, select `Open`. Then navigate to the `lab1-master1` folder, and select `myfirstprogram.py` (which your OS might show just as `myfirstprogram`).
+  * From the `File` menu in IDLE, select `Open`. Then navigate to the `lab1-main` folder, and select `myfirstprogram.py` (which your OS might show just as `myfirstprogram`).
   
 5. Once you have launched IDLE and you have `myfirstprogram.py` open, click on the `myfirstprogram.py` window to make it the active window. Then go up to the `Run` dropdown menu, and select `Run Module`. In the `IDLE Shell` window, you'll see output something like this.
 
