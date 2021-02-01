@@ -36,16 +36,17 @@ In this directory, you'll find a few scripts that the TAs will show you how to r
 5. Once you have launched IDLE and you have `myfirstprogram.py` open, click on the `myfirstprogram.py` window to make it the active window. Then go up to the `Run` dropdown menu, and select `Run Module`. In the `IDLE Shell` window, you'll see output something like this.
 
 ```
-=============== RESTART: /Users/emilypx/Desktop/myfirstprogram.py ==============
-This is my first python program.
-<class 'int'>
-<class 'int'>
-<class 'str'>
-The area of a square whose sides are length 3 is 9
+=========== RESTART: /Users/emilypx/Desktop/myfirstprogram.py ===========
+Hello, World!
 >>> 
-
-
 ```
+
+## Getting more advanced
+Now open the `mysecondprogram.py` just as you opened `myirstprogram.py`, above. You ran run it just as you ran the other program. This is a little more fancy! You can learn more about what the program is doing and what is happening by looking in the comments. The TA will discuss it more with you.
+
+## Getting even more advanced!
+Now open the `mythirdprogram.py` just as you opened `myirstprogram.py`, above. You ran run it just as you ran the other program. This is even more fancy! You can learn more about what the program is doing and what is happening by looking in the comments. The TA will discuss it more with you.
+
 
 
 
