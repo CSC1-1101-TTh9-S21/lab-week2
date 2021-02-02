@@ -16,7 +16,7 @@ In this repository (a.k.a. folder), you'll find a few scripts that the TAs will 
 ## Getting started
 1. Create a folder on your Desktop or in your Documents or anywhere that's easy to access called `CS1`. This will be where you keep all your assignments for this class.
 
-2. On this page, you'll see a green `Code` button. Click on that button and select ``ownload ZIP`. Here's a picture to help:
+2. On this page, you'll see a green `Code` button. Click on that button and select `Download ZIP`. Here's a picture to help:
 
 <img src="picture1.png" width="600">
 
