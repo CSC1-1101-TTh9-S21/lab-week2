@@ -25,7 +25,7 @@ In this repository (a.k.a. folder), you'll find a few scripts that the TAs will 
 
 4a. There are two ways of opening a Python (``.py``) file. Let's try one way first to see if it works.
 
-  * Open the `lab1-main` folder on your computer, then you'll see a file called `myfirstprogram.py`. (Your operating system might just show it as as `myfirstprogram`. That's fine -- it's the you want.) 
+  * Open the `lab1-main` folder on your computer, then you'll see a file called `myfirstprogram.py`. (Your operating system might just show it as as `myfirstprogram`. That's fine -- it's the file you want.) 
   * **Right-click** on the `myfirstprogram.py` file. On a Mac, you can right-click by tapping the icon with two fingers or by holding down the ``control`` key and then tapping the icon.
   * Select `Open with...` and then select IDLE from the submenu.
   * If IDLE does not appear or you can't figure out how to right click, try option 4b.
