@@ -1,4 +1,4 @@
-# Lab 1
+# Week 2 Lab (formerly known as Lab 1)
 
 You'll be going over this lab with your TA during your discussion section.
 
