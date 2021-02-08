@@ -21,7 +21,7 @@ print("Your rectangle has sides of length", a, "and", b)
 
 # Now let's print out the perimeter of the rectangle
 c = a + a + b + b
-print("The perimeter of your triangle is: ", c)
+print("The perimeter of your rectangle is: ", c)
 
 # Go run the program and see what happens.
 
